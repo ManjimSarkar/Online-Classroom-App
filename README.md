@@ -1,4 +1,4 @@
-Online classroom app made with Flutter and Dart in AndroidStudio.
+Online classroom app with login features and attendance and schedule tracking.
 
 <img src="https://github.com/ManjimSarkar/Online-Classroom-App/assets/71220565/5133f83d-0ff5-40da-8d6a-2417f5e8b3f3" alt="Screnshot 1" width="324" height="666">
 <img src="https://github.com/ManjimSarkar/Online-Classroom-App/assets/71220565/8c0ef110-bbdc-46b7-9ea7-41a8f13eaeb2" alt="Screnshot 1" width="324" height="666">
