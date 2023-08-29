@@ -1,0 +1,4 @@
+#Thu Apr 28 17:50:01 IST 2022
+base.0=/Users/piyushsaklani/Developer/Flutter Projects/ISDP_APP_1/flutter_application_1/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
